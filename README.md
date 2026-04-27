@@ -28,7 +28,7 @@ Overall, NDGCNet provides an integrated framework for jointly learning from mult
 
 ## Availability
 
-
+Datasets and source code are available at: https://github.com/Gtaizu/NDGCNet
 
 ---
 
